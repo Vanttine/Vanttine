@@ -30,7 +30,7 @@ Estudante de programação focado em criar projetos práticos e evoluir constant
 Landing Page desenvolvida com <strong>HTML</strong>, <strong>CSS</strong> e <strong>Bootstrap</strong>, com layout responsivo e foco em apresentação profissional.
 </p>
 
-<a href="https://vanttine.github.io/Projetos/Nutri/" target="_blank">
+<a href="https://github.com/Vanttine/NutriWeb" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
