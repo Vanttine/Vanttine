@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vanttine/Vanttine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👋 Olá, eu sou o Luiz</h1>
 
-Here are some ideas to get you started:
+<p>
+Estudante de programação focado em criar projetos práticos e evoluir constantemente minhas habilidades.
+Tenho interesse em <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>,
+<strong>PHP</strong> e no desenvolvimento <strong>full-stack</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanttine&theme=dark&layout=compact&langs_count=8&card_width=320"
+    height="150"
+  />
+</div>
+
+<br>
+
+<div>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vanttine&show_icons=true&theme=dark"
+    height="200"
+  />
+</div>
+
+</div>
