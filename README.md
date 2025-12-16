@@ -56,7 +56,7 @@ Landing Page desenvolvida com <strong>HTML</strong>, <strong>CSS</strong> e <str
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEUUSERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/luizvantine/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
