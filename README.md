@@ -43,10 +43,8 @@ Landing Page desenvolvida com <strong>HTML</strong>, <strong>CSS</strong> e <str
   height="180"
 />
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Vanttine&theme=dark&hide_border=true"
-  height="180"
-/>
+
+
 
 <hr width="60%" />
 
