@@ -23,31 +23,6 @@ Estudante de programação focado em criar projetos práticos e evoluir constant
 
 <hr width="60%" />
 
-<h2>📌 Projeto em Destaque</h2>
-
-<p>
-<strong>Site institucional para Nutricionista</strong><br>
-Landing Page desenvolvida com <strong>HTML</strong>, <strong>CSS</strong> e <strong>Bootstrap</strong>, com layout responsivo e foco em apresentação profissional.
-</p>
-
-<a href="https://github.com/Vanttine/NutriWeb" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<hr width="60%" />
-
-<h2>📊 GitHub Stats</h2>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Vanttine&show_icons=true&theme=dark"
-  height="180"
-/>
-
-
-
-
-<hr width="60%" />
-
 <h2>📫 Contato</h2>
 
 <a href="mailto:fellipevantine12@gmail.com">
